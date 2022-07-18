@@ -36,8 +36,5 @@
 ehthumbs.db
 Thumbs.db
 
-# file to ignore #
-node_modules/
-
 *.egg-info
 env
